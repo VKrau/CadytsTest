@@ -1,0 +1,17 @@
+pattern	0+	5+	10+	15+	20+	25+	30+	35+	40+	45+	50+	55+	60+
+education---home	171	102	74	72	83	4	0	0	0	0	0	0	0
+education---store	70	30	12	25	24	2	0	0	0	0	0	0	0
+education---work	93	121	55	40	63	0	0	0	0	0	0	0	0
+home---education	407	190	233	208	3	0	0	0	0	0	0	0	0
+home---school	6	1	0	0	0	0	0	0	0	0	0	0	0
+home---shopping	177	1334	45	0	0	0	0	0	0	0	0	0	0
+home---work	914	1763	1899	540	46	43	22	1	0	0	0	0	0
+school---home	2	0	0	0	0	0	0	0	0	0	0	0	0
+school---work	3	2	0	0	0	0	0	0	0	0	0	0	0
+shopping---home	258	762	56	0	0	0	0	0	0	0	0	0	0
+shopping---store	92	343	45	0	0	0	0	0	0	0	0	0	0
+store---home	1985	529	74	0	0	0	0	0	0	0	0	0	0
+work---home	1252	2102	298	8	0	0	0	0	0	0	0	0	0
+work---store	1252	557	133	3	0	0	0	0	0	0	0	0	0
+
+average trip duration: 407.1721509474475 seconds = 00:06:47
